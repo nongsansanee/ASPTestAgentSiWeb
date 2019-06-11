@@ -1,7 +1,7 @@
 <body>
 <br><br>
 <center>
-<form method="post" action="https://10.7.14.14/test-agent">
+<form method="post" action="checkLogin.asp">
 <label>LOGIN </label><br><br>
 Userame: <input type="text" name="username"><br><br>
 Password: <input type="password" name="password"><br><br>
