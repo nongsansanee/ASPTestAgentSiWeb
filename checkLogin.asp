@@ -76,7 +76,7 @@ data = data & "&password=" & password
  
 // response.write("Send")
  
- //Response.ContentType = "application/json"
+ Response.ContentType = "application/json"
  Response.Write httpRequest.responseText
 
 
