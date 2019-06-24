@@ -5,7 +5,10 @@
 <label>LOGIN </label><br><br>
 Userame: <input type="text" name="username"><br><br>
 Password: <input type="password" name="password"><br><br>
-<input type="hidden" name="key" value="C887AJ7E-698F-4A15-BD35-2F583441258D">
+Key: <input type="text" name="key" size="50"><br><br>
+AppID: <input type="text" name="app_id" size="10"><br><br>
+
+
 <input type="submit" value="Submit">
 </form>
 <%
